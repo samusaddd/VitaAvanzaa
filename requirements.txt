@@ -6,3 +6,5 @@ python-jose[cryptography]
 passlib[bcrypt]
 python-multipart
 httpx
+email-validator
+psycopg2-binary
